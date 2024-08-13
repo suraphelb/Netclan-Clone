@@ -9,8 +9,7 @@
 - **Light Mode Only**: Designed with a light mode interface, as dark mode support is not included.
 
 ## Screenshots
-![Home Screen](link-to-screenshot1)
-![Detail View](link-to-screenshot2)
+![Detail View](https://github.com/user-attachments/assets/c4d7e3ec-16f2-444b-94b0-fb7f67a09273)
 
 ## Installation
 1. Clone the repository:
